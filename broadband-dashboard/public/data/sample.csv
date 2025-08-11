@@ -1,0 +1,5 @@
+county,municipality,zip,latitude,longitude,provider,service type,adoption status,download mbps,upload mbps,affordability,monthly cost,satisfaction,household income,age bracket,race,barriers
+Otsego,Oneonta,13820,42.452,-75.063,Spectrum,Cable,Subscribed,250,20,Affordable,70,Somewhat Satisfied,50k-75k,35-44,White,None
+Otsego,Cooperstown,13326,42.700,-74.923,Fios,Fiber,Subscribed,500,400,Affordable,80,Very Satisfied,75k-100k,45-54,White,None
+Otsego,New Lisbon,13415,42.610,-75.200,HughesNet,Satellite,Not Subscribed,10,2,Not Affordable,100,Dissatisfied,Under 35k,65+,White,Cost
+Otsego,Milford,13807,42.596,-74.948,Frontier,DSL,Subscribed,15,1,Not Affordable,90,Very Dissatisfied,35k-50k,55-64,White,Slow Speeds
